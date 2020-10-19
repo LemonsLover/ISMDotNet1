@@ -1,0 +1,13 @@
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\bin\Debug\netcoreapp3.1\SecondConsoleProject.exe
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\bin\Debug\netcoreapp3.1\SecondConsoleProject.deps.json
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\bin\Debug\netcoreapp3.1\SecondConsoleProject.runtimeconfig.json
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\bin\Debug\netcoreapp3.1\SecondConsoleProject.runtimeconfig.dev.json
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\bin\Debug\netcoreapp3.1\SecondConsoleProject.dll
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\bin\Debug\netcoreapp3.1\SecondConsoleProject.pdb
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\obj\Debug\netcoreapp3.1\SecondConsoleProject.csprojAssemblyReference.cache
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\obj\Debug\netcoreapp3.1\SecondConsoleProject.AssemblyInfoInputs.cache
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\obj\Debug\netcoreapp3.1\SecondConsoleProject.AssemblyInfo.cs
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\obj\Debug\netcoreapp3.1\SecondConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\obj\Debug\netcoreapp3.1\SecondConsoleProject.dll
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\obj\Debug\netcoreapp3.1\SecondConsoleProject.pdb
+C:\Users\dizon\source\repos\ISMFirstSolution\SecondConsoleProject\obj\Debug\netcoreapp3.1\SecondConsoleProject.genruntimeconfig.cache
